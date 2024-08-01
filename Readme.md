@@ -4,7 +4,7 @@ The project uses HTML, CSS, and Javascript to build a static website for Baizonn
 
 ## Websit URL
 
-paste url here
+https://meizhong0801.github.io/3402a2/
 
 ## Website overview
 
